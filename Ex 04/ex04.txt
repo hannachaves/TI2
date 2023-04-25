@@ -1,0 +1,5 @@
+servidor: pucm.postgres.database.azure.com
+
+usuario: adm@pucm
+
+senha: @Pucminas
